@@ -1,0 +1,32 @@
+body {
+    background-color:bisque
+  }
+  
+  img{
+    width :600px
+  }
+/* unvisited link */
+a:link {
+  color: rgb(4, 0, 255);
+}
+
+/* visited link */
+a:visited {
+  color: rgb(192, 115, 115);
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(235, 63, 149);
+}
+
+/* selected link */
+a:active {
+  color: rgb(235, 63, 149);
+}
+
+#bildeheader{
+  width: 200px;
+  float: right;
+  
+}
