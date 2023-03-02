@@ -3,7 +3,7 @@
  }
 
 function leggTilBilde(){
-document.getElementById("bildeboks").innerHTML += "<img src= \"bilder/edpV2.jpg\">";
+document.getElementById("bildeboks").innerHTML += "<img src= \"bilder/edpV2.jfif\">";
 }
  
 function fjerneBilder(){
